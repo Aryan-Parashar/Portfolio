@@ -16,16 +16,16 @@ I am Aryan Parashar, a highly motivated and results-driven individual with a Bac
 ### StealthFrame
 - StealthFrame showcases my expertise in image steganography, utilizing AES-256 encryption to seamlessly embed messages within images for secure communication. This project highlights my skills in cryptography and secure communication techniques.
 
-### SQL Injections Avec Kali
-- SQL Injections Avec Kali is a guided project focused on exploiting SQL vulnerabilities to gain unauthorized access to databases. Through this project, I gained hands-on experience in penetration testing and incident response methodologies.
+### WebSentry Toolkit
+- WebSentry is a Python-based Toolkit designed to perform Vulnerability Assessment and determine metriculated scopes for Penetration Testing on Web Application using a Man-in-the-middle model applying the OWASP Top 40 Vulnerabilities.
 
 ## Certifications 🎓
 
 - IBM Cyber Security Analyst Professional Certification
 - Cisco Certified Junior Cyber Security Analyst
-- Ethical Hacking Elite Certification
+- Ethical Hacking Elite Certification, IIT KGP
 - Google Cyber Security Professional Certifications
-- (ISC)2 Certified in Cybersecurity
+- (ISC)2 Certified in Cybersecurity - CC
 
 ## Professional Experience 💼
 
@@ -35,10 +35,13 @@ I am Aryan Parashar, a highly motivated and results-driven individual with a Bac
 ### Mastercard Inc.
 - At Mastercard, I served as a Phishing Threat Intelligence Analyst, implementing targeted training courses and procedures to mitigate phishing attacks and enhance overall security posture.
 
+### Shadowfox Ltd.
+- As a VAPT professional, I performed Web Application vulnerability assessment and identify vulnerabilities, uncovered hidden directories with DirBuster and Gobuster, and intercepted network traffic with Wireshark to extract plaintext credentials. Decrypted Veracrypt-encrypted files by cracking the password hash and identified the entry point of a Veracrypt executable with PE Explorer. Additionally, created a payload with Metasploit to establish a reverse shell connection from a Windows 10 virtual machine, conducted a deauthentication attack, captured the WPA handshake, and cracked the Wi-Fi password using Aircrack-ng. Documentation work included preparing VAPT report following OffSec's Template.
+
 ## Education 📚
 
-- Bachelor of Technology in Computer Science Engineering, specializing in Cybersecurity and Blockchain Technology, RGPV, Bhopal
-- IBM, Cisco & (ISC)2 Certified Cyber Security Analyst
+- Bachelor of Technology in Computer Science Engineering, specializing in Cybersecurity and Blockchain Technology, under Rajiv Gandhi Technical University, Bhopal.
+- AISSE and AISSCE, under CBSE.
 
 ## Skills 🛡️
 
