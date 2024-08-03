@@ -8,20 +8,10 @@ Welcome to my GitHub portfolio! Here you'll discover a showcase of my passion fo
 
 I am Aryan Parashar, a highly motivated and results-driven individual with a Bachelor's degree in Computer Science Engineering, specializing in Cybersecurity and Blockchain Technology. With a strong foundation in technology and a keen interest in cybersecurity, I am constantly exploring new challenges and seeking opportunities to expand my knowledge and expertise.
 
-## Projects 🛠️
-
-### InsightMonitor
-- InsightMonitor is a Python scripted spyware designed to capture a wide range of system information, from keystrokes to screenshots, and securely transmit them for analysis. This project demonstrates my proficiency in cybersecurity and ethical hacking principles.
-
-### StealthFrame
-- StealthFrame showcases my expertise in image steganography, utilizing AES-256 encryption to seamlessly embed messages within images for secure communication. This project highlights my skills in cryptography and secure communication techniques.
-
-### WebSentry Toolkit
-- WebSentry is a Python-based Toolkit designed to perform Vulnerability Assessment and determine metriculated scopes for Penetration Testing on Web Application using a Man-in-the-middle model applying the OWASP Top 40 Vulnerabilities.
-
 ## Certifications 🎓
 
 - IBM Cyber Security Analyst Professional Certification
+- EC Council Certified Ethical Hacker Version 12 (CEHv.12)
 - Cisco Certified Junior Cyber Security Analyst
 - Ethical Hacking Elite Certification, IIT KGP
 - Google Cyber Security Professional Certifications
@@ -29,26 +19,27 @@ I am Aryan Parashar, a highly motivated and results-driven individual with a Bac
 
 ## Professional Experience 💼
 
+### Computer Emergency Response Team - India(CERT-In), Ministry of Electronics and Information Technology(MeitY)
+- Contributed solely to critical Governmental Projects aimed to secure the national digital infrastructure, developed an automation script using Machine Learning under MeitY focused to perform targeted  Vulnerability Assessment scans for all NIC and GOV.in top level domains and reporting patches to respective ministries. Scans covered OWASP Top 10 vulnerabilities and Content Management System(CMS) based shortfalls and latest ODVs. Further scopes include scaling VA pool for all specific TLDs and SLDs on internet. 
+
+
+### Shadowfox Ltd.
+- As a VAPT professional, I performed Web Application vulnerability assessment and identify vulnerabilities, uncovered hidden directories with DirBuster and Gobuster, and intercepted network traffic with Wireshark to extract plaintext credentials. Decrypted Veracrypt-encrypted files by cracking the password hash and identified the entry point of a Veracrypt executable with PE Explorer. Additionally, created a payload with Metasploit to establish a reverse shell connection from a Windows 10 virtual machine, conducted a deauthentication attack, captured the WPA handshake, and cracked the Wi-Fi password using Aircrack-ng. Documentation work included preparing VAPT report following OffSec's Template.
+
 ### Tata Consultancy Services
 - As an IAM Developer, I fortified cybersecurity for TechCorp Enterprises within the Tata Group. I led IAM readiness assessments, tailored solution designs, and implemented advanced RBAC models, significantly enhancing cybersecurity posture.
 
 ### Mastercard Inc.
 - At Mastercard, I served as a Phishing Threat Intelligence Analyst, implementing targeted training courses and procedures to mitigate phishing attacks and enhance overall security posture.
 
-### Shadowfox Ltd.
-- As a VAPT professional, I performed Web Application vulnerability assessment and identify vulnerabilities, uncovered hidden directories with DirBuster and Gobuster, and intercepted network traffic with Wireshark to extract plaintext credentials. Decrypted Veracrypt-encrypted files by cracking the password hash and identified the entry point of a Veracrypt executable with PE Explorer. Additionally, created a payload with Metasploit to establish a reverse shell connection from a Windows 10 virtual machine, conducted a deauthentication attack, captured the WPA handshake, and cracked the Wi-Fi password using Aircrack-ng. Documentation work included preparing VAPT report following OffSec's Template.
-
 ## Education 📚
 
 - Bachelor of Technology in Computer Science Engineering, specializing in Cybersecurity and Blockchain Technology, under Rajiv Gandhi Technical University, Bhopal.
 - AISSE and AISSCE, under CBSE.
 
-## Skills 🛡️
+## Resume
+[Aryan Parashar's Resume](https://www.canva.com/design/DAF-dcHc0cU/YUUWICuOHP_iQc8PM7waog/edit?utm_content=DAF-dcHc0cU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- Cybersecurity: Identity & Access Management, Ethical Hacking, Security Operations
-- Machine Learning: AI, Big Data, Analytics, Machine Learning
-- Programming: Python, SQL, Bash Scripting
-- Tools: Wireshark, Metasploit, Splunk, OWASP
 
 ## Seeking Opportunities 🌟
 
