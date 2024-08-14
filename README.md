@@ -38,7 +38,7 @@ I am Aryan Parashar, a highly motivated and results-driven individual with a Bac
 - AISSE and AISSCE, under CBSE.
 
 ## Resume
-[Aryan Parashar's Resume](https://www.canva.com/design/DAF-dcHc0cU/YUUWICuOHP_iQc8PM7waog/edit?utm_content=DAF-dcHc0cU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Aryan Parashar's Resume](https://www.canva.com/design/DAF-dcHc0cU/pQ1Q4vcFpUP3ubqTE-ABHQ/view?utm_content=DAF-dcHc0cU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 ## Seeking Opportunities 🌟
