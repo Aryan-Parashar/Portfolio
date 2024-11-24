@@ -13,6 +13,7 @@ I am Aryan Parashar, a highly motivated and results-driven individual with a Bac
 - IBM Cyber Security Analyst Professional Certification
 - EC Council Certified Ethical Hacker Version 12 (CEHv.12)
 - Cisco Certified Junior Cyber Security Analyst
+- Certified Windows Forensics Expert, CFCS2R
 - Ethical Hacking Elite Certification, IIT KGP
 - Google Cyber Security Professional Certifications
 - (ISC)2 Certified in Cybersecurity - CC
